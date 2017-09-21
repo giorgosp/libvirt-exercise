@@ -1,0 +1,635 @@
+Script started on Πεμ 21 Σεπ 2017 02:23:51 μμ EEST
+[1m[7m%[27m[1m[0m                                                                                        ]2;gio@gio-L: ~/dev/omscs/cs6210/project1/cs6210Project1_test/test/cpu]1;..test/test/cpu[0m[27m[24m[J[01;32m➜  [36mcpu[00m [01;34mgit:([31mmaster[34m) [33m✗[00m [K[?1h=[?2004h../monitor.py[?1l>[?2004l
+]2;./monitor.py]1;./monitor.pyfirsttestvm: ([(0, 1, 71260000000L, 3)], [(False, False, False, True, False, False, False, False)])
+secondtestvm: ([(0, 1, 71230000000L, 5)], [(False, False, False, False, False, True, False, False)])
+thirdtestvm: ([(0, 1, 72020000000L, 6)], [(False, False, False, False, False, False, True, False)])
+fourthtestvm: ([(0, 1, 73390000000L, 5)], [(False, False, False, False, False, True, False, False)])
+fifthtestvm: ([(0, 1, 72810000000L, 2)], [(False, False, True, False, False, False, False, False)])
+sixthtestvm: ([(0, 1, 72980000000L, 1)], [(False, True, False, False, False, False, False, False)])
+seventhtestvm: ([(0, 1, 72830000000L, 6)], [(False, False, False, False, False, False, True, False)])
+eighthtestvm: ([(0, 1, 72080000000L, 4)], [(False, False, False, False, True, False, False, False)])
+ninthtestvm: ([(0, 1, 65920000000L, 0)], [(True, False, False, False, False, False, False, False)])
+tenthtestvm: ([(0, 1, 64030000000L, 7)], [(False, False, False, False, False, False, False, True)])
+eleventhtestvm: ([(0, 1, 66800000000L, 7)], [(False, False, False, False, False, False, False, True)])
+twelvethtestvm: ([(0, 1, 64720000000L, 0)], [(True, False, False, False, False, False, False, False)])
+thirteenthtestvm: ([(0, 1, 66060000000L, 2)], [(False, False, True, False, False, False, False, False)])
+fourteenthtestvm: ([(0, 1, 64460000000L, 3)], [(False, False, False, True, False, False, False, False)])
+fifteenthtestvm: ([(0, 1, 64330000000L, 1)], [(False, True, False, False, False, False, False, False)])
+sixteenthtestvm: ([(0, 1, 64880000000L, 4)], [(False, False, False, False, True, False, False, False)])
+--------------------------------------------------------------------------------
+0: 0.0 []
+1: 0.0 []
+2: 0.0 []
+3: 0.0 []
+4: 0.0 []
+5: 0.0 []
+6: 0.0 []
+7: 0.0 []
+--------------------------------------------------------------------------------
+firsttestvm: ([(0, 1, 71260000000L, 3)], [(False, False, False, True, False, False, False, False)])
+secondtestvm: ([(0, 1, 71240000000L, 5)], [(False, False, False, False, False, True, False, False)])
+thirdtestvm: ([(0, 1, 72020000000L, 6)], [(False, False, False, False, False, False, True, False)])
+fourthtestvm: ([(0, 1, 73390000000L, 5)], [(False, False, False, False, False, True, False, False)])
+fifthtestvm: ([(0, 1, 72810000000L, 2)], [(False, False, True, False, False, False, False, False)])
+sixthtestvm: ([(0, 1, 72980000000L, 1)], [(False, True, False, False, False, False, False, False)])
+seventhtestvm: ([(0, 1, 72830000000L, 6)], [(False, False, False, False, False, False, True, False)])
+eighthtestvm: ([(0, 1, 72080000000L, 4)], [(False, False, False, False, True, False, False, False)])
+ninthtestvm: ([(0, 1, 65920000000L, 0)], [(True, False, False, False, False, False, False, False)])
+tenthtestvm: ([(0, 1, 64030000000L, 7)], [(False, False, False, False, False, False, False, True)])
+eleventhtestvm: ([(0, 1, 66800000000L, 7)], [(False, False, False, False, False, False, False, True)])
+twelvethtestvm: ([(0, 1, 64720000000L, 0)], [(True, False, False, False, False, False, False, False)])
+thirteenthtestvm: ([(0, 1, 66060000000L, 2)], [(False, False, True, False, False, False, False, False)])
+fourteenthtestvm: ([(0, 1, 64460000000L, 3)], [(False, False, False, True, False, False, False, False)])
+fifteenthtestvm: ([(0, 1, 64330000000L, 1)], [(False, True, False, False, False, False, False, False)])
+sixteenthtestvm: ([(0, 1, 64880000000L, 4)], [(False, False, False, False, True, False, False, False)])
+--------------------------------------------------------------------------------
+0: 0.0 ['ninthtestvm', 'twelvethtestvm']
+1: 0.0 ['sixthtestvm', 'fifteenthtestvm']
+2: 0.0 ['fifthtestvm', 'thirteenthtestvm']
+3: 0.0 ['firsttestvm', 'fourteenthtestvm']
+4: 0.0 ['eighthtestvm', 'sixteenthtestvm']
+5: 1.0 ['secondtestvm', 'fourthtestvm']
+6: 0.0 ['thirdtestvm', 'seventhtestvm']
+7: 0.0 ['tenthtestvm', 'eleventhtestvm']
+--------------------------------------------------------------------------------
+firsttestvm: ([(0, 1, 71260000000L, 0)], [(True, False, False, False, False, False, False, False)])
+secondtestvm: ([(0, 1, 71240000000L, 0)], [(True, False, False, False, False, False, False, False)])
+thirdtestvm: ([(0, 1, 72020000000L, 0)], [(True, False, False, False, False, False, False, False)])
+fourthtestvm: ([(0, 1, 73400000000L, 0)], [(True, False, False, False, False, False, False, False)])
+fifthtestvm: ([(0, 1, 72810000000L, 0)], [(True, False, False, False, False, False, False, False)])
+sixthtestvm: ([(0, 1, 72980000000L, 0)], [(True, False, False, False, False, False, False, False)])
+seventhtestvm: ([(0, 1, 72830000000L, 0)], [(True, False, False, False, False, False, False, False)])
+eighthtestvm: ([(0, 1, 72080000000L, 0)], [(True, False, False, False, False, False, False, False)])
+ninthtestvm: ([(0, 1, 65920000000L, 0)], [(True, False, False, False, False, False, False, False)])
+tenthtestvm: ([(0, 1, 64030000000L, 0)], [(True, False, False, False, False, False, False, False)])
+eleventhtestvm: ([(0, 1, 66800000000L, 0)], [(True, False, False, False, False, False, False, False)])
+twelvethtestvm: ([(0, 1, 64720000000L, 0)], [(True, False, False, False, False, False, False, False)])
+thirteenthtestvm: ([(0, 1, 66060000000L, 0)], [(True, False, False, False, False, False, False, False)])
+fourteenthtestvm: ([(0, 1, 64460000000L, 3)], [(True, False, False, False, False, False, False, False)])
+fifteenthtestvm: ([(0, 1, 64330000000L, 0)], [(True, False, False, False, False, False, False, False)])
+sixteenthtestvm: ([(0, 1, 64880000000L, 0)], [(True, False, False, False, False, False, False, False)])
+--------------------------------------------------------------------------------
+0: 1.0 ['firsttestvm', 'secondtestvm', 'thirdtestvm', 'fourthtestvm', 'fifthtestvm', 'sixthtestvm', 'seventhtestvm', 'eighthtestvm', 'ninthtestvm', 'tenthtestvm', 'eleventhtestvm', 'twelvethtestvm', 'thirteenthtestvm', 'fifteenthtestvm', 'sixteenthtestvm']
+1: 0.0 []
+2: 0.0 []
+3: 0.0 ['fourteenthtestvm']
+4: 0.0 []
+5: 0.0 []
+6: 0.0 []
+7: 0.0 []
+--------------------------------------------------------------------------------
+firsttestvm: ([(0, 1, 71260000000L, 0)], [(True, False, False, False, False, False, False, False)])
+secondtestvm: ([(0, 1, 71240000000L, 0)], [(True, False, False, False, False, False, False, False)])
+thirdtestvm: ([(0, 1, 72020000000L, 0)], [(True, False, False, False, False, False, False, False)])
+fourthtestvm: ([(0, 1, 73400000000L, 0)], [(True, False, False, False, False, False, False, False)])
+fifthtestvm: ([(0, 1, 72810000000L, 0)], [(True, False, False, False, False, False, False, False)])
+sixthtestvm: ([(0, 1, 72980000000L, 0)], [(True, False, False, False, False, False, False, False)])
+seventhtestvm: ([(0, 1, 72830000000L, 0)], [(True, False, False, False, False, False, False, False)])
+eighthtestvm: ([(0, 1, 72080000000L, 0)], [(True, False, False, False, False, False, False, False)])
+ninthtestvm: ([(0, 1, 65920000000L, 0)], [(True, False, False, False, False, False, False, False)])
+tenthtestvm: ([(0, 1, 64030000000L, 0)], [(True, False, False, False, False, False, False, False)])
+eleventhtestvm: ([(0, 1, 66800000000L, 0)], [(True, False, False, False, False, False, False, False)])
+twelvethtestvm: ([(0, 1, 64720000000L, 0)], [(True, False, False, False, False, False, False, False)])
+thirteenthtestvm: ([(0, 1, 66060000000L, 0)], [(True, False, False, False, False, False, False, False)])
+fourteenthtestvm: ([(0, 1, 64460000000L, 0)], [(True, False, False, False, False, False, False, False)])
+fifteenthtestvm: ([(0, 1, 64330000000L, 0)], [(True, False, False, False, False, False, False, False)])
+sixteenthtestvm: ([(0, 1, 64880000000L, 0)], [(True, False, False, False, False, False, False, False)])
+--------------------------------------------------------------------------------
+0: 0.0 ['firsttestvm', 'secondtestvm', 'thirdtestvm', 'fourthtestvm', 'fifthtestvm', 'sixthtestvm', 'seventhtestvm', 'eighthtestvm', 'ninthtestvm', 'tenthtestvm', 'eleventhtestvm', 'twelvethtestvm', 'thirteenthtestvm', 'fourteenthtestvm', 'fifteenthtestvm', 'sixteenthtestvm']
+1: 0.0 []
+2: 0.0 []
+3: 0.0 []
+4: 0.0 []
+5: 0.0 []
+6: 0.0 []
+7: 0.0 []
+--------------------------------------------------------------------------------
+firsttestvm: ([(0, 1, 71260000000L, 0)], [(True, False, False, False, False, False, False, False)])
+secondtestvm: ([(0, 1, 71240000000L, 0)], [(True, False, False, False, False, False, False, False)])
+thirdtestvm: ([(0, 1, 72020000000L, 0)], [(True, False, False, False, False, False, False, False)])
+fourthtestvm: ([(0, 1, 73400000000L, 0)], [(True, False, False, False, False, False, False, False)])
+fifthtestvm: ([(0, 1, 72810000000L, 0)], [(True, False, False, False, False, False, False, False)])
+sixthtestvm: ([(0, 1, 72980000000L, 0)], [(True, False, False, False, False, False, False, False)])
+seventhtestvm: ([(0, 1, 72830000000L, 0)], [(True, False, False, False, False, False, False, False)])
+eighthtestvm: ([(0, 1, 72080000000L, 0)], [(True, False, False, False, False, False, False, False)])
+ninthtestvm: ([(0, 1, 65920000000L, 0)], [(True, False, False, False, False, False, False, False)])
+tenthtestvm: ([(0, 1, 64030000000L, 0)], [(True, False, False, False, False, False, False, False)])
+eleventhtestvm: ([(0, 1, 66800000000L, 0)], [(True, False, False, False, False, False, False, False)])
+twelvethtestvm: ([(0, 1, 64720000000L, 0)], [(True, False, False, False, False, False, False, False)])
+thirteenthtestvm: ([(0, 1, 66060000000L, 0)], [(True, False, False, False, False, False, False, False)])
+fourteenthtestvm: ([(0, 1, 64460000000L, 0)], [(True, False, False, False, False, False, False, False)])
+fifteenthtestvm: ([(0, 1, 64340000000L, 0)], [(True, False, False, False, False, False, False, False)])
+sixteenthtestvm: ([(0, 1, 64880000000L, 0)], [(True, False, False, False, False, False, False, False)])
+--------------------------------------------------------------------------------
+0: 1.0 ['firsttestvm', 'secondtestvm', 'thirdtestvm', 'fourthtestvm', 'fifthtestvm', 'sixthtestvm', 'seventhtestvm', 'eighthtestvm', 'ninthtestvm', 'tenthtestvm', 'eleventhtestvm', 'twelvethtestvm', 'thirteenthtestvm', 'fourteenthtestvm', 'fifteenthtestvm', 'sixteenthtestvm']
+1: 0.0 []
+2: 0.0 []
+3: 0.0 []
+4: 0.0 []
+5: 0.0 []
+6: 0.0 []
+7: 0.0 []
+--------------------------------------------------------------------------------
+firsttestvm: ([(0, 1, 71260000000L, 0)], [(True, False, False, False, False, False, False, False)])
+secondtestvm: ([(0, 1, 71240000000L, 0)], [(True, False, False, False, False, False, False, False)])
+thirdtestvm: ([(0, 1, 72020000000L, 0)], [(True, False, False, False, False, False, False, False)])
+fourthtestvm: ([(0, 1, 73400000000L, 0)], [(True, False, False, False, False, False, False, False)])
+fifthtestvm: ([(0, 1, 72810000000L, 0)], [(True, False, False, False, False, False, False, False)])
+sixthtestvm: ([(0, 1, 72980000000L, 0)], [(True, False, False, False, False, False, False, False)])
+seventhtestvm: ([(0, 1, 72830000000L, 0)], [(True, False, False, False, False, False, False, False)])
+eighthtestvm: ([(0, 1, 72080000000L, 0)], [(True, False, False, False, False, False, False, False)])
+ninthtestvm: ([(0, 1, 65920000000L, 0)], [(True, False, False, False, False, False, False, False)])
+tenthtestvm: ([(0, 1, 64030000000L, 0)], [(True, False, False, False, False, False, False, False)])
+eleventhtestvm: ([(0, 1, 66800000000L, 0)], [(True, False, False, False, False, False, False, False)])
+twelvethtestvm: ([(0, 1, 64720000000L, 0)], [(True, False, False, False, False, False, False, False)])
+thirteenthtestvm: ([(0, 1, 66060000000L, 0)], [(True, False, False, False, False, False, False, False)])
+fourteenthtestvm: ([(0, 1, 64460000000L, 0)], [(True, False, False, False, False, False, False, False)])
+fifteenthtestvm: ([(0, 1, 64340000000L, 0)], [(True, False, False, False, False, False, False, False)])
+sixteenthtestvm: ([(0, 1, 64880000000L, 0)], [(True, False, False, False, False, False, False, False)])
+--------------------------------------------------------------------------------
+0: 0.0 ['firsttestvm', 'secondtestvm', 'thirdtestvm', 'fourthtestvm', 'fifthtestvm', 'sixthtestvm', 'seventhtestvm', 'eighthtestvm', 'ninthtestvm', 'tenthtestvm', 'eleventhtestvm', 'twelvethtestvm', 'thirteenthtestvm', 'fourteenthtestvm', 'fifteenthtestvm', 'sixteenthtestvm']
+1: 0.0 []
+2: 0.0 []
+3: 0.0 []
+4: 0.0 []
+5: 0.0 []
+6: 0.0 []
+7: 0.0 []
+--------------------------------------------------------------------------------
+firsttestvm: ([(0, 1, 71290000000L, 0)], [(True, False, False, False, False, False, False, False)])
+secondtestvm: ([(0, 1, 71290000000L, 0)], [(True, False, False, False, False, False, False, False)])
+thirdtestvm: ([(0, 1, 72070000000L, 0)], [(True, False, False, False, False, False, False, False)])
+fourthtestvm: ([(0, 1, 73460000000L, 0)], [(True, False, False, False, False, False, False, False)])
+fifthtestvm: ([(0, 1, 72870000000L, 0)], [(True, False, False, False, False, False, False, False)])
+sixthtestvm: ([(0, 1, 73040000000L, 0)], [(True, False, False, False, False, False, False, False)])
+seventhtestvm: ([(0, 1, 72890000000L, 0)], [(True, False, False, False, False, False, False, False)])
+eighthtestvm: ([(0, 1, 72140000000L, 0)], [(True, False, False, False, False, False, False, False)])
+ninthtestvm: ([(0, 1, 65970000000L, 0)], [(True, False, False, False, False, False, False, False)])
+tenthtestvm: ([(0, 1, 64090000000L, 0)], [(True, False, False, False, False, False, False, False)])
+eleventhtestvm: ([(0, 1, 66840000000L, 0)], [(True, False, False, False, False, False, False, False)])
+twelvethtestvm: ([(0, 1, 64760000000L, 0)], [(True, False, False, False, False, False, False, False)])
+thirteenthtestvm: ([(0, 1, 66120000000L, 0)], [(True, False, False, False, False, False, False, False)])
+fourteenthtestvm: ([(0, 1, 64520000000L, 0)], [(True, False, False, False, False, False, False, False)])
+fifteenthtestvm: ([(0, 1, 64370000000L, 0)], [(True, False, False, False, False, False, False, False)])
+sixteenthtestvm: ([(0, 1, 64940000000L, 0)], [(True, False, False, False, False, False, False, False)])
+--------------------------------------------------------------------------------
+0: 83.0 ['firsttestvm', 'secondtestvm', 'thirdtestvm', 'fourthtestvm', 'fifthtestvm', 'sixthtestvm', 'seventhtestvm', 'eighthtestvm', 'ninthtestvm', 'tenthtestvm', 'eleventhtestvm', 'twelvethtestvm', 'thirteenthtestvm', 'fourteenthtestvm', 'fifteenthtestvm', 'sixteenthtestvm']
+1: 0.0 []
+2: 0.0 []
+3: 0.0 []
+4: 0.0 []
+5: 0.0 []
+6: 0.0 []
+7: 0.0 []
+--------------------------------------------------------------------------------
+firsttestvm: ([(0, 1, 71340000000L, 0)], [(True, False, False, False, False, False, False, False)])
+secondtestvm: ([(0, 1, 71360000000L, 0)], [(True, False, False, False, False, False, False, False)])
+thirdtestvm: ([(0, 1, 72130000000L, 0)], [(True, False, False, False, False, False, False, False)])
+fourthtestvm: ([(0, 1, 73520000000L, 0)], [(True, False, False, False, False, False, False, False)])
+fifthtestvm: ([(0, 1, 72940000000L, 0)], [(True, False, False, False, False, False, False, False)])
+sixthtestvm: ([(0, 1, 73110000000L, 0)], [(True, False, False, False, False, False, False, False)])
+seventhtestvm: ([(0, 1, 72960000000L, 0)], [(True, False, False, False, False, False, False, False)])
+eighthtestvm: ([(0, 1, 72210000000L, 0)], [(True, False, False, False, False, False, False, False)])
+ninthtestvm: ([(0, 1, 66030000000L, 0)], [(True, False, False, False, False, False, False, False)])
+tenthtestvm: ([(0, 1, 64160000000L, 0)], [(True, False, False, False, False, False, False, False)])
+eleventhtestvm: ([(0, 1, 66880000000L, 0)], [(True, False, False, False, False, False, False, False)])
+twelvethtestvm: ([(0, 1, 64800000000L, 0)], [(True, False, False, False, False, False, False, False)])
+thirteenthtestvm: ([(0, 1, 66190000000L, 0)], [(True, False, False, False, False, False, False, False)])
+fourteenthtestvm: ([(0, 1, 64590000000L, 0)], [(True, False, False, False, False, False, False, False)])
+fifteenthtestvm: ([(0, 1, 64420000000L, 0)], [(True, False, False, False, False, False, False, False)])
+sixteenthtestvm: ([(0, 1, 65010000000L, 0)], [(True, False, False, False, False, False, False, False)])
+--------------------------------------------------------------------------------
+0: 99.0 ['firsttestvm', 'secondtestvm', 'thirdtestvm', 'fourthtestvm', 'fifthtestvm', 'sixthtestvm', 'seventhtestvm', 'eighthtestvm', 'ninthtestvm', 'tenthtestvm', 'eleventhtestvm', 'twelvethtestvm', 'thirteenthtestvm', 'fourteenthtestvm', 'fifteenthtestvm', 'sixteenthtestvm']
+1: 0.0 []
+2: 0.0 []
+3: 0.0 []
+4: 0.0 []
+5: 0.0 []
+6: 0.0 []
+7: 0.0 []
+--------------------------------------------------------------------------------
+firsttestvm: ([(0, 1, 71660000000L, 5)], [(False, False, False, False, False, True, False, False)])
+secondtestvm: ([(0, 1, 71690000000L, 7)], [(False, False, False, False, False, False, False, True)])
+thirdtestvm: ([(0, 1, 72440000000L, 2)], [(False, False, True, False, False, False, False, False)])
+fourthtestvm: ([(0, 1, 73860000000L, 6)], [(False, False, False, False, False, False, True, False)])
+fifthtestvm: ([(0, 1, 73270000000L, 0)], [(True, False, False, False, False, False, False, False)])
+sixthtestvm: ([(0, 1, 73420000000L, 4)], [(False, False, False, False, True, False, False, False)])
+seventhtestvm: ([(0, 1, 73260000000L, 7)], [(False, False, False, False, False, False, False, True)])
+eighthtestvm: ([(0, 1, 72490000000L, 6)], [(False, False, False, False, False, False, True, False)])
+ninthtestvm: ([(0, 1, 66330000000L, 4)], [(False, False, False, False, True, False, False, False)])
+tenthtestvm: ([(0, 1, 64480000000L, 3)], [(False, False, False, True, False, False, False, False)])
+eleventhtestvm: ([(0, 1, 67190000000L, 3)], [(False, False, False, True, False, False, False, False)])
+twelvethtestvm: ([(0, 1, 65100000000L, 0)], [(True, False, False, False, False, False, False, False)])
+thirteenthtestvm: ([(0, 1, 66500000000L, 5)], [(False, False, False, False, False, True, False, False)])
+fourteenthtestvm: ([(0, 1, 64930000000L, 1)], [(False, True, False, False, False, False, False, False)])
+fifteenthtestvm: ([(0, 1, 64700000000L, 1)], [(False, True, False, False, False, False, False, False)])
+sixteenthtestvm: ([(0, 1, 65310000000L, 2)], [(False, False, True, False, False, False, False, False)])
+--------------------------------------------------------------------------------
+0: 63.0 ['fifthtestvm', 'twelvethtestvm']
+1: 62.0 ['fourteenthtestvm', 'fifteenthtestvm']
+2: 61.0 ['thirdtestvm', 'sixteenthtestvm']
+3: 63.0 ['tenthtestvm', 'eleventhtestvm']
+4: 61.0 ['sixthtestvm', 'ninthtestvm']
+5: 63.0 ['firsttestvm', 'thirteenthtestvm']
+6: 62.0 ['fourthtestvm', 'eighthtestvm']
+7: 63.0 ['secondtestvm', 'seventhtestvm']
+--------------------------------------------------------------------------------
+firsttestvm: ([(0, 1, 72040000000L, 5)], [(False, False, False, False, False, True, False, False)])
+secondtestvm: ([(0, 1, 72040000000L, 7)], [(False, False, False, False, False, False, False, True)])
+thirdtestvm: ([(0, 1, 72780000000L, 2)], [(False, False, True, False, False, False, False, False)])
+fourthtestvm: ([(0, 1, 74230000000L, 6)], [(False, False, False, False, False, False, True, False)])
+fifthtestvm: ([(0, 1, 73640000000L, 0)], [(True, False, False, False, False, False, False, False)])
+sixthtestvm: ([(0, 1, 73790000000L, 4)], [(False, False, False, False, True, False, False, False)])
+seventhtestvm: ([(0, 1, 73580000000L, 7)], [(False, False, False, False, False, False, False, True)])
+eighthtestvm: ([(0, 1, 72800000000L, 6)], [(False, False, False, False, False, False, True, False)])
+ninthtestvm: ([(0, 1, 66630000000L, 4)], [(False, False, False, False, True, False, False, False)])
+tenthtestvm: ([(0, 1, 64790000000L, 3)], [(False, False, False, True, False, False, False, False)])
+eleventhtestvm: ([(0, 1, 67550000000L, 3)], [(False, False, False, True, False, False, False, False)])
+twelvethtestvm: ([(0, 1, 65390000000L, 0)], [(True, False, False, False, False, False, False, False)])
+thirteenthtestvm: ([(0, 1, 66800000000L, 5)], [(False, False, False, False, False, True, False, False)])
+fourteenthtestvm: ([(0, 1, 65300000000L, 1)], [(False, True, False, False, False, False, False, False)])
+fifteenthtestvm: ([(0, 1, 65000000000L, 1)], [(False, True, False, False, False, False, False, False)])
+sixteenthtestvm: ([(0, 1, 65650000000L, 2)], [(False, False, True, False, False, False, False, False)])
+--------------------------------------------------------------------------------
+0: 66.0 ['fifthtestvm', 'twelvethtestvm']
+1: 67.0 ['fourteenthtestvm', 'fifteenthtestvm']
+2: 68.0 ['thirdtestvm', 'sixteenthtestvm']
+3: 67.0 ['tenthtestvm', 'eleventhtestvm']
+4: 67.0 ['sixthtestvm', 'ninthtestvm']
+5: 68.0 ['firsttestvm', 'thirteenthtestvm']
+6: 68.0 ['fourthtestvm', 'eighthtestvm']
+7: 67.0 ['secondtestvm', 'seventhtestvm']
+--------------------------------------------------------------------------------
+firsttestvm: ([(0, 1, 72410000000L, 5)], [(False, False, False, False, False, True, False, False)])
+secondtestvm: ([(0, 1, 72380000000L, 7)], [(False, False, False, False, False, False, False, True)])
+thirdtestvm: ([(0, 1, 73110000000L, 2)], [(False, False, True, False, False, False, False, False)])
+fourthtestvm: ([(0, 1, 74590000000L, 6)], [(False, False, False, False, False, False, True, False)])
+fifthtestvm: ([(0, 1, 74010000000L, 0)], [(True, False, False, False, False, False, False, False)])
+sixthtestvm: ([(0, 1, 74160000000L, 4)], [(False, False, False, False, True, False, False, False)])
+seventhtestvm: ([(0, 1, 73910000000L, 7)], [(False, False, False, False, False, False, False, True)])
+eighthtestvm: ([(0, 1, 73100000000L, 6)], [(False, False, False, False, False, False, True, False)])
+ninthtestvm: ([(0, 1, 66940000000L, 4)], [(False, False, False, False, True, False, False, False)])
+tenthtestvm: ([(0, 1, 65150000000L, 3)], [(False, False, False, True, False, False, False, False)])
+eleventhtestvm: ([(0, 1, 67860000000L, 3)], [(False, False, False, True, False, False, False, False)])
+twelvethtestvm: ([(0, 1, 65700000000L, 0)], [(True, False, False, False, False, False, False, False)])
+thirteenthtestvm: ([(0, 1, 67100000000L, 5)], [(False, False, False, False, False, True, False, False)])
+fourteenthtestvm: ([(0, 1, 65680000000L, 1)], [(False, True, False, False, False, False, False, False)])
+fifteenthtestvm: ([(0, 1, 65310000000L, 1)], [(False, True, False, False, False, False, False, False)])
+sixteenthtestvm: ([(0, 1, 65990000000L, 2)], [(False, False, True, False, False, False, False, False)])
+--------------------------------------------------------------------------------
+0: 68.0 ['fifthtestvm', 'twelvethtestvm']
+1: 69.0 ['fourteenthtestvm', 'fifteenthtestvm']
+2: 67.0 ['thirdtestvm', 'sixteenthtestvm']
+3: 67.0 ['tenthtestvm', 'eleventhtestvm']
+4: 68.0 ['sixthtestvm', 'ninthtestvm']
+5: 67.0 ['firsttestvm', 'thirteenthtestvm']
+6: 66.0 ['fourthtestvm', 'eighthtestvm']
+7: 67.0 ['secondtestvm', 'seventhtestvm']
+--------------------------------------------------------------------------------
+firsttestvm: ([(0, 1, 72760000000L, 7)], [(False, False, False, False, False, False, False, True)])
+secondtestvm: ([(0, 1, 72730000000L, 2)], [(False, False, True, False, False, False, False, False)])
+thirdtestvm: ([(0, 1, 73450000000L, 6)], [(False, False, False, False, False, False, True, False)])
+fourthtestvm: ([(0, 1, 74960000000L, 4)], [(False, False, False, False, True, False, False, False)])
+fifthtestvm: ([(0, 1, 74350000000L, 5)], [(False, False, False, False, False, True, False, False)])
+sixthtestvm: ([(0, 1, 74510000000L, 3)], [(False, False, False, True, False, False, False, False)])
+seventhtestvm: ([(0, 1, 74240000000L, 5)], [(False, False, False, False, False, True, False, False)])
+eighthtestvm: ([(0, 1, 73420000000L, 3)], [(False, False, False, True, False, False, False, False)])
+ninthtestvm: ([(0, 1, 67270000000L, 4)], [(False, False, False, False, True, False, False, False)])
+tenthtestvm: ([(0, 1, 65500000000L, 1)], [(False, True, False, False, False, False, False, False)])
+eleventhtestvm: ([(0, 1, 68190000000L, 7)], [(False, False, False, False, False, False, False, True)])
+twelvethtestvm: ([(0, 1, 66020000000L, 0)], [(True, False, False, False, False, False, False, False)])
+thirteenthtestvm: ([(0, 1, 67430000000L, 2)], [(False, False, True, False, False, False, False, False)])
+fourteenthtestvm: ([(0, 1, 66010000000L, 6)], [(False, False, False, False, False, False, True, False)])
+fifteenthtestvm: ([(0, 1, 65630000000L, 1)], [(False, True, False, False, False, False, False, False)])
+sixteenthtestvm: ([(0, 1, 66340000000L, 0)], [(True, False, False, False, False, False, False, False)])
+--------------------------------------------------------------------------------
+0: 67.0 ['twelvethtestvm', 'sixteenthtestvm']
+1: 67.0 ['tenthtestvm', 'fifteenthtestvm']
+2: 68.0 ['secondtestvm', 'thirteenthtestvm']
+3: 67.0 ['sixthtestvm', 'eighthtestvm']
+4: 70.0 ['fourthtestvm', 'ninthtestvm']
+5: 67.0 ['fifthtestvm', 'seventhtestvm']
+6: 67.0 ['thirdtestvm', 'fourteenthtestvm']
+7: 68.0 ['firsttestvm', 'eleventhtestvm']
+--------------------------------------------------------------------------------
+firsttestvm: ([(0, 1, 73080000000L, 7)], [(False, False, False, False, False, False, False, True)])
+secondtestvm: ([(0, 1, 73080000000L, 2)], [(False, False, True, False, False, False, False, False)])
+thirdtestvm: ([(0, 1, 73800000000L, 6)], [(False, False, False, False, False, False, True, False)])
+fourthtestvm: ([(0, 1, 75320000000L, 4)], [(False, False, False, False, True, False, False, False)])
+fifthtestvm: ([(0, 1, 74700000000L, 5)], [(False, False, False, False, False, True, False, False)])
+sixthtestvm: ([(0, 1, 74880000000L, 3)], [(False, False, False, True, False, False, False, False)])
+seventhtestvm: ([(0, 1, 74580000000L, 5)], [(False, False, False, False, False, True, False, False)])
+eighthtestvm: ([(0, 1, 73750000000L, 3)], [(False, False, False, True, False, False, False, False)])
+ninthtestvm: ([(0, 1, 67580000000L, 4)], [(False, False, False, False, True, False, False, False)])
+tenthtestvm: ([(0, 1, 65850000000L, 1)], [(False, True, False, False, False, False, False, False)])
+eleventhtestvm: ([(0, 1, 68550000000L, 7)], [(False, False, False, False, False, False, False, True)])
+twelvethtestvm: ([(0, 1, 66360000000L, 0)], [(True, False, False, False, False, False, False, False)])
+thirteenthtestvm: ([(0, 1, 67770000000L, 2)], [(False, False, True, False, False, False, False, False)])
+fourteenthtestvm: ([(0, 1, 66360000000L, 6)], [(False, False, False, False, False, False, True, False)])
+fifteenthtestvm: ([(0, 1, 65970000000L, 1)], [(False, True, False, False, False, False, False, False)])
+sixteenthtestvm: ([(0, 1, 66700000000L, 0)], [(True, False, False, False, False, False, False, False)])
+--------------------------------------------------------------------------------
+0: 70.0 ['twelvethtestvm', 'sixteenthtestvm']
+1: 69.0 ['tenthtestvm', 'fifteenthtestvm']
+2: 69.0 ['secondtestvm', 'thirteenthtestvm']
+3: 70.0 ['sixthtestvm', 'eighthtestvm']
+4: 67.0 ['fourthtestvm', 'ninthtestvm']
+5: 69.0 ['fifthtestvm', 'seventhtestvm']
+6: 70.0 ['thirdtestvm', 'fourteenthtestvm']
+7: 68.0 ['firsttestvm', 'eleventhtestvm']
+--------------------------------------------------------------------------------
+firsttestvm: ([(0, 1, 73410000000L, 7)], [(False, False, False, False, False, False, False, True)])
+secondtestvm: ([(0, 1, 73430000000L, 2)], [(False, False, True, False, False, False, False, False)])
+thirdtestvm: ([(0, 1, 74140000000L, 6)], [(False, False, False, False, False, False, True, False)])
+fourthtestvm: ([(0, 1, 75680000000L, 4)], [(False, False, False, False, True, False, False, False)])
+fifthtestvm: ([(0, 1, 75050000000L, 5)], [(False, False, False, False, False, True, False, False)])
+sixthtestvm: ([(0, 1, 75240000000L, 3)], [(False, False, False, True, False, False, False, False)])
+seventhtestvm: ([(0, 1, 74910000000L, 5)], [(False, False, False, False, False, True, False, False)])
+eighthtestvm: ([(0, 1, 74070000000L, 3)], [(False, False, False, True, False, False, False, False)])
+ninthtestvm: ([(0, 1, 67910000000L, 4)], [(False, False, False, False, True, False, False, False)])
+tenthtestvm: ([(0, 1, 66190000000L, 1)], [(False, True, False, False, False, False, False, False)])
+eleventhtestvm: ([(0, 1, 68920000000L, 7)], [(False, False, False, False, False, False, False, True)])
+twelvethtestvm: ([(0, 1, 66700000000L, 0)], [(True, False, False, False, False, False, False, False)])
+thirteenthtestvm: ([(0, 1, 68120000000L, 2)], [(False, False, True, False, False, False, False, False)])
+fourteenthtestvm: ([(0, 1, 66700000000L, 6)], [(False, False, False, False, False, False, True, False)])
+fifteenthtestvm: ([(0, 1, 66310000000L, 1)], [(False, True, False, False, False, False, False, False)])
+sixteenthtestvm: ([(0, 1, 67040000000L, 0)], [(True, False, False, False, False, False, False, False)])
+--------------------------------------------------------------------------------
+0: 68.0 ['twelvethtestvm', 'sixteenthtestvm']
+1: 68.0 ['tenthtestvm', 'fifteenthtestvm']
+2: 70.0 ['secondtestvm', 'thirteenthtestvm']
+3: 68.0 ['sixthtestvm', 'eighthtestvm']
+4: 69.0 ['fourthtestvm', 'ninthtestvm']
+5: 68.0 ['fifthtestvm', 'seventhtestvm']
+6: 68.0 ['thirdtestvm', 'fourteenthtestvm']
+7: 70.0 ['firsttestvm', 'eleventhtestvm']
+--------------------------------------------------------------------------------
+firsttestvm: ([(0, 1, 73730000000L, 7)], [(False, False, False, False, False, False, False, True)])
+secondtestvm: ([(0, 1, 73770000000L, 2)], [(False, False, True, False, False, False, False, False)])
+thirdtestvm: ([(0, 1, 74490000000L, 6)], [(False, False, False, False, False, False, True, False)])
+fourthtestvm: ([(0, 1, 76050000000L, 4)], [(False, False, False, False, True, False, False, False)])
+fifthtestvm: ([(0, 1, 75400000000L, 5)], [(False, False, False, False, False, True, False, False)])
+sixthtestvm: ([(0, 1, 75590000000L, 3)], [(False, False, False, True, False, False, False, False)])
+seventhtestvm: ([(0, 1, 75260000000L, 5)], [(False, False, False, False, False, True, False, False)])
+eighthtestvm: ([(0, 1, 74400000000L, 3)], [(False, False, False, True, False, False, False, False)])
+ninthtestvm: ([(0, 1, 68240000000L, 4)], [(False, False, False, False, True, False, False, False)])
+tenthtestvm: ([(0, 1, 66530000000L, 1)], [(False, True, False, False, False, False, False, False)])
+eleventhtestvm: ([(0, 1, 69270000000L, 7)], [(False, False, False, False, False, False, False, True)])
+twelvethtestvm: ([(0, 1, 67040000000L, 0)], [(True, False, False, False, False, False, False, False)])
+thirteenthtestvm: ([(0, 1, 68470000000L, 2)], [(False, False, True, False, False, False, False, False)])
+fourteenthtestvm: ([(0, 1, 67060000000L, 6)], [(False, False, False, False, False, False, True, False)])
+fifteenthtestvm: ([(0, 1, 66660000000L, 1)], [(False, True, False, False, False, False, False, False)])
+sixteenthtestvm: ([(0, 1, 67390000000L, 0)], [(True, False, False, False, False, False, False, False)])
+--------------------------------------------------------------------------------
+0: 69.0 ['twelvethtestvm', 'sixteenthtestvm']
+1: 69.0 ['tenthtestvm', 'fifteenthtestvm']
+2: 69.0 ['secondtestvm', 'thirteenthtestvm']
+3: 68.0 ['sixthtestvm', 'eighthtestvm']
+4: 70.0 ['fourthtestvm', 'ninthtestvm']
+5: 70.0 ['fifthtestvm', 'seventhtestvm']
+6: 71.0 ['thirdtestvm', 'fourteenthtestvm']
+7: 67.0 ['firsttestvm', 'eleventhtestvm']
+--------------------------------------------------------------------------------
+firsttestvm: ([(0, 1, 74060000000L, 7)], [(False, False, False, False, False, False, False, True)])
+secondtestvm: ([(0, 1, 74110000000L, 2)], [(False, False, True, False, False, False, False, False)])
+thirdtestvm: ([(0, 1, 74840000000L, 6)], [(False, False, False, False, False, False, True, False)])
+fourthtestvm: ([(0, 1, 76420000000L, 4)], [(False, False, False, False, True, False, False, False)])
+fifthtestvm: ([(0, 1, 75750000000L, 5)], [(False, False, False, False, False, True, False, False)])
+sixthtestvm: ([(0, 1, 75950000000L, 3)], [(False, False, False, True, False, False, False, False)])
+seventhtestvm: ([(0, 1, 75600000000L, 5)], [(False, False, False, False, False, True, False, False)])
+eighthtestvm: ([(0, 1, 74730000000L, 3)], [(False, False, False, True, False, False, False, False)])
+ninthtestvm: ([(0, 1, 68570000000L, 4)], [(False, False, False, False, True, False, False, False)])
+tenthtestvm: ([(0, 1, 66890000000L, 1)], [(False, True, False, False, False, False, False, False)])
+eleventhtestvm: ([(0, 1, 69650000000L, 7)], [(False, False, False, False, False, False, False, True)])
+twelvethtestvm: ([(0, 1, 67390000000L, 0)], [(True, False, False, False, False, False, False, False)])
+thirteenthtestvm: ([(0, 1, 68820000000L, 2)], [(False, False, True, False, False, False, False, False)])
+fourteenthtestvm: ([(0, 1, 67410000000L, 6)], [(False, False, False, False, False, False, True, False)])
+fifteenthtestvm: ([(0, 1, 67000000000L, 1)], [(False, True, False, False, False, False, False, False)])
+sixteenthtestvm: ([(0, 1, 67740000000L, 0)], [(True, False, False, False, False, False, False, False)])
+--------------------------------------------------------------------------------
+0: 70.0 ['twelvethtestvm', 'sixteenthtestvm']
+1: 70.0 ['tenthtestvm', 'fifteenthtestvm']
+2: 69.0 ['secondtestvm', 'thirteenthtestvm']
+3: 69.0 ['sixthtestvm', 'eighthtestvm']
+4: 70.0 ['fourthtestvm', 'ninthtestvm']
+5: 69.0 ['fifthtestvm', 'seventhtestvm']
+6: 70.0 ['thirdtestvm', 'fourteenthtestvm']
+7: 71.0 ['firsttestvm', 'eleventhtestvm']
+--------------------------------------------------------------------------------
+firsttestvm: ([(0, 1, 74390000000L, 7)], [(False, False, False, False, False, False, False, True)])
+secondtestvm: ([(0, 1, 74450000000L, 2)], [(False, False, True, False, False, False, False, False)])
+thirdtestvm: ([(0, 1, 75180000000L, 6)], [(False, False, False, False, False, False, True, False)])
+fourthtestvm: ([(0, 1, 76790000000L, 4)], [(False, False, False, False, True, False, False, False)])
+fifthtestvm: ([(0, 1, 76100000000L, 5)], [(False, False, False, False, False, True, False, False)])
+sixthtestvm: ([(0, 1, 76320000000L, 3)], [(False, False, False, True, False, False, False, False)])
+seventhtestvm: ([(0, 1, 75950000000L, 5)], [(False, False, False, False, False, True, False, False)])
+eighthtestvm: ([(0, 1, 75070000000L, 3)], [(False, False, False, True, False, False, False, False)])
+ninthtestvm: ([(0, 1, 68890000000L, 4)], [(False, False, False, False, True, False, False, False)])
+tenthtestvm: ([(0, 1, 67230000000L, 1)], [(False, True, False, False, False, False, False, False)])
+eleventhtestvm: ([(0, 1, 70020000000L, 7)], [(False, False, False, False, False, False, False, True)])
+twelvethtestvm: ([(0, 1, 67730000000L, 0)], [(True, False, False, False, False, False, False, False)])
+thirteenthtestvm: ([(0, 1, 69170000000L, 2)], [(False, False, True, False, False, False, False, False)])
+fourteenthtestvm: ([(0, 1, 67750000000L, 6)], [(False, False, False, False, False, False, True, False)])
+fifteenthtestvm: ([(0, 1, 67350000000L, 1)], [(False, True, False, False, False, False, False, False)])
+sixteenthtestvm: ([(0, 1, 68100000000L, 0)], [(True, False, False, False, False, False, False, False)])
+--------------------------------------------------------------------------------
+0: 70.0 ['twelvethtestvm', 'sixteenthtestvm']
+1: 69.0 ['tenthtestvm', 'fifteenthtestvm']
+2: 69.0 ['secondtestvm', 'thirteenthtestvm']
+3: 71.0 ['sixthtestvm', 'eighthtestvm']
+4: 69.0 ['fourthtestvm', 'ninthtestvm']
+5: 70.0 ['fifthtestvm', 'seventhtestvm']
+6: 68.0 ['thirdtestvm', 'fourteenthtestvm']
+7: 70.0 ['firsttestvm', 'eleventhtestvm']
+--------------------------------------------------------------------------------
+firsttestvm: ([(0, 1, 74710000000L, 7)], [(False, False, False, False, False, False, False, True)])
+secondtestvm: ([(0, 1, 74800000000L, 2)], [(False, False, True, False, False, False, False, False)])
+thirdtestvm: ([(0, 1, 75520000000L, 6)], [(False, False, False, False, False, False, True, False)])
+fourthtestvm: ([(0, 1, 77150000000L, 4)], [(False, False, False, False, True, False, False, False)])
+fifthtestvm: ([(0, 1, 76440000000L, 5)], [(False, False, False, False, False, True, False, False)])
+sixthtestvm: ([(0, 1, 76670000000L, 3)], [(False, False, False, True, False, False, False, False)])
+seventhtestvm: ([(0, 1, 76300000000L, 5)], [(False, False, False, False, False, True, False, False)])
+eighthtestvm: ([(0, 1, 75390000000L, 3)], [(False, False, False, True, False, False, False, False)])
+ninthtestvm: ([(0, 1, 69210000000L, 4)], [(False, False, False, False, True, False, False, False)])
+tenthtestvm: ([(0, 1, 67580000000L, 1)], [(False, True, False, False, False, False, False, False)])
+eleventhtestvm: ([(0, 1, 70380000000L, 7)], [(False, False, False, False, False, False, False, True)])
+twelvethtestvm: ([(0, 1, 68080000000L, 0)], [(True, False, False, False, False, False, False, False)])
+thirteenthtestvm: ([(0, 1, 69530000000L, 2)], [(False, False, True, False, False, False, False, False)])
+fourteenthtestvm: ([(0, 1, 68110000000L, 6)], [(False, False, False, False, False, False, True, False)])
+fifteenthtestvm: ([(0, 1, 67700000000L, 1)], [(False, True, False, False, False, False, False, False)])
+sixteenthtestvm: ([(0, 1, 68430000000L, 0)], [(True, False, False, False, False, False, False, False)])
+--------------------------------------------------------------------------------
+0: 68.0 ['twelvethtestvm', 'sixteenthtestvm']
+1: 70.0 ['tenthtestvm', 'fifteenthtestvm']
+2: 71.0 ['secondtestvm', 'thirteenthtestvm']
+3: 67.0 ['sixthtestvm', 'eighthtestvm']
+4: 68.0 ['fourthtestvm', 'ninthtestvm']
+5: 69.0 ['fifthtestvm', 'seventhtestvm']
+6: 70.0 ['thirdtestvm', 'fourteenthtestvm']
+7: 68.0 ['firsttestvm', 'eleventhtestvm']
+--------------------------------------------------------------------------------
+firsttestvm: ([(0, 1, 75040000000L, 7)], [(False, False, False, False, False, False, False, True)])
+secondtestvm: ([(0, 1, 75150000000L, 2)], [(False, False, True, False, False, False, False, False)])
+thirdtestvm: ([(0, 1, 75890000000L, 6)], [(False, False, False, False, False, False, True, False)])
+fourthtestvm: ([(0, 1, 77520000000L, 4)], [(False, False, False, False, True, False, False, False)])
+fifthtestvm: ([(0, 1, 76790000000L, 5)], [(False, False, False, False, False, True, False, False)])
+sixthtestvm: ([(0, 1, 77040000000L, 3)], [(False, False, False, True, False, False, False, False)])
+seventhtestvm: ([(0, 1, 76640000000L, 5)], [(False, False, False, False, False, True, False, False)])
+eighthtestvm: ([(0, 1, 75720000000L, 3)], [(False, False, False, True, False, False, False, False)])
+ninthtestvm: ([(0, 1, 69540000000L, 4)], [(False, False, False, False, True, False, False, False)])
+tenthtestvm: ([(0, 1, 67930000000L, 1)], [(False, True, False, False, False, False, False, False)])
+eleventhtestvm: ([(0, 1, 70750000000L, 7)], [(False, False, False, False, False, False, False, True)])
+twelvethtestvm: ([(0, 1, 68430000000L, 0)], [(True, False, False, False, False, False, False, False)])
+thirteenthtestvm: ([(0, 1, 69870000000L, 2)], [(False, False, True, False, False, False, False, False)])
+fourteenthtestvm: ([(0, 1, 68450000000L, 6)], [(False, False, False, False, False, False, True, False)])
+fifteenthtestvm: ([(0, 1, 68050000000L, 1)], [(False, True, False, False, False, False, False, False)])
+sixteenthtestvm: ([(0, 1, 68780000000L, 0)], [(True, False, False, False, False, False, False, False)])
+--------------------------------------------------------------------------------
+0: 70.0 ['twelvethtestvm', 'sixteenthtestvm']
+1: 70.0 ['tenthtestvm', 'fifteenthtestvm']
+2: 69.0 ['secondtestvm', 'thirteenthtestvm']
+3: 70.0 ['sixthtestvm', 'eighthtestvm']
+4: 70.0 ['fourthtestvm', 'ninthtestvm']
+5: 69.0 ['fifthtestvm', 'seventhtestvm']
+6: 71.0 ['thirdtestvm', 'fourteenthtestvm']
+7: 70.0 ['firsttestvm', 'eleventhtestvm']
+--------------------------------------------------------------------------------
+firsttestvm: ([(0, 1, 75360000000L, 7)], [(False, False, False, False, False, False, False, True)])
+secondtestvm: ([(0, 1, 75500000000L, 2)], [(False, False, True, False, False, False, False, False)])
+thirdtestvm: ([(0, 1, 76230000000L, 6)], [(False, False, False, False, False, False, True, False)])
+fourthtestvm: ([(0, 1, 77880000000L, 4)], [(False, False, False, False, True, False, False, False)])
+fifthtestvm: ([(0, 1, 77140000000L, 5)], [(False, False, False, False, False, True, False, False)])
+sixthtestvm: ([(0, 1, 77400000000L, 3)], [(False, False, False, True, False, False, False, False)])
+seventhtestvm: ([(0, 1, 76990000000L, 5)], [(False, False, False, False, False, True, False, False)])
+eighthtestvm: ([(0, 1, 76050000000L, 3)], [(False, False, False, True, False, False, False, False)])
+ninthtestvm: ([(0, 1, 69860000000L, 4)], [(False, False, False, False, True, False, False, False)])
+tenthtestvm: ([(0, 1, 68280000000L, 1)], [(False, True, False, False, False, False, False, False)])
+eleventhtestvm: ([(0, 1, 71120000000L, 7)], [(False, False, False, False, False, False, False, True)])
+twelvethtestvm: ([(0, 1, 68770000000L, 0)], [(True, False, False, False, False, False, False, False)])
+thirteenthtestvm: ([(0, 1, 70220000000L, 2)], [(False, False, True, False, False, False, False, False)])
+fourteenthtestvm: ([(0, 1, 68790000000L, 6)], [(False, False, False, False, False, False, True, False)])
+fifteenthtestvm: ([(0, 1, 68390000000L, 1)], [(False, True, False, False, False, False, False, False)])
+sixteenthtestvm: ([(0, 1, 69130000000L, 0)], [(True, False, False, False, False, False, False, False)])
+--------------------------------------------------------------------------------
+0: 69.0 ['twelvethtestvm', 'sixteenthtestvm']
+1: 69.0 ['tenthtestvm', 'fifteenthtestvm']
+2: 70.0 ['secondtestvm', 'thirteenthtestvm']
+3: 69.0 ['sixthtestvm', 'eighthtestvm']
+4: 68.0 ['fourthtestvm', 'ninthtestvm']
+5: 70.0 ['fifthtestvm', 'seventhtestvm']
+6: 68.0 ['thirdtestvm', 'fourteenthtestvm']
+7: 69.0 ['firsttestvm', 'eleventhtestvm']
+--------------------------------------------------------------------------------
+firsttestvm: ([(0, 1, 75690000000L, 7)], [(False, False, False, False, False, False, False, True)])
+secondtestvm: ([(0, 1, 75850000000L, 2)], [(False, False, True, False, False, False, False, False)])
+thirdtestvm: ([(0, 1, 76590000000L, 6)], [(False, False, False, False, False, False, True, False)])
+fourthtestvm: ([(0, 1, 78240000000L, 4)], [(False, False, False, False, True, False, False, False)])
+fifthtestvm: ([(0, 1, 77490000000L, 5)], [(False, False, False, False, False, True, False, False)])
+sixthtestvm: ([(0, 1, 77760000000L, 3)], [(False, False, False, True, False, False, False, False)])
+seventhtestvm: ([(0, 1, 77330000000L, 5)], [(False, False, False, False, False, True, False, False)])
+eighthtestvm: ([(0, 1, 76390000000L, 3)], [(False, False, False, True, False, False, False, False)])
+ninthtestvm: ([(0, 1, 70210000000L, 4)], [(False, False, False, False, True, False, False, False)])
+tenthtestvm: ([(0, 1, 68630000000L, 1)], [(False, True, False, False, False, False, False, False)])
+eleventhtestvm: ([(0, 1, 71480000000L, 7)], [(False, False, False, False, False, False, False, True)])
+twelvethtestvm: ([(0, 1, 69110000000L, 0)], [(True, False, False, False, False, False, False, False)])
+thirteenthtestvm: ([(0, 1, 70570000000L, 2)], [(False, False, True, False, False, False, False, False)])
+fourteenthtestvm: ([(0, 1, 69140000000L, 6)], [(False, False, False, False, False, False, True, False)])
+fifteenthtestvm: ([(0, 1, 68740000000L, 1)], [(False, True, False, False, False, False, False, False)])
+sixteenthtestvm: ([(0, 1, 69480000000L, 0)], [(True, False, False, False, False, False, False, False)])
+--------------------------------------------------------------------------------
+0: 69.0 ['twelvethtestvm', 'sixteenthtestvm']
+1: 70.0 ['tenthtestvm', 'fifteenthtestvm']
+2: 70.0 ['secondtestvm', 'thirteenthtestvm']
+3: 70.0 ['sixthtestvm', 'eighthtestvm']
+4: 71.0 ['fourthtestvm', 'ninthtestvm']
+5: 69.0 ['fifthtestvm', 'seventhtestvm']
+6: 71.0 ['thirdtestvm', 'fourteenthtestvm']
+7: 69.0 ['firsttestvm', 'eleventhtestvm']
+--------------------------------------------------------------------------------
+firsttestvm: ([(0, 1, 76020000000L, 7)], [(False, False, False, False, False, False, False, True)])
+secondtestvm: ([(0, 1, 76190000000L, 2)], [(False, False, True, False, False, False, False, False)])
+thirdtestvm: ([(0, 1, 76920000000L, 6)], [(False, False, False, False, False, False, True, False)])
+fourthtestvm: ([(0, 1, 78580000000L, 4)], [(False, False, False, False, True, False, False, False)])
+fifthtestvm: ([(0, 1, 77830000000L, 5)], [(False, False, False, False, False, True, False, False)])
+sixthtestvm: ([(0, 1, 78120000000L, 3)], [(False, False, False, True, False, False, False, False)])
+seventhtestvm: ([(0, 1, 77670000000L, 5)], [(False, False, False, False, False, True, False, False)])
+eighthtestvm: ([(0, 1, 76710000000L, 3)], [(False, False, False, True, False, False, False, False)])
+ninthtestvm: ([(0, 1, 70540000000L, 4)], [(False, False, False, False, True, False, False, False)])
+tenthtestvm: ([(0, 1, 68970000000L, 1)], [(False, True, False, False, False, False, False, False)])
+eleventhtestvm: ([(0, 1, 71840000000L, 7)], [(False, False, False, False, False, False, False, True)])
+twelvethtestvm: ([(0, 1, 69450000000L, 0)], [(True, False, False, False, False, False, False, False)])
+thirteenthtestvm: ([(0, 1, 70910000000L, 2)], [(False, False, True, False, False, False, False, False)])
+fourteenthtestvm: ([(0, 1, 69480000000L, 6)], [(False, False, False, False, False, False, True, False)])
+fifteenthtestvm: ([(0, 1, 69080000000L, 1)], [(False, True, False, False, False, False, False, False)])
+sixteenthtestvm: ([(0, 1, 69820000000L, 0)], [(True, False, False, False, False, False, False, False)])
+--------------------------------------------------------------------------------
+0: 68.0 ['twelvethtestvm', 'sixteenthtestvm']
+1: 68.0 ['tenthtestvm', 'fifteenthtestvm']
+2: 68.0 ['secondtestvm', 'thirteenthtestvm']
+3: 68.0 ['sixthtestvm', 'eighthtestvm']
+4: 67.0 ['fourthtestvm', 'ninthtestvm']
+5: 68.0 ['fifthtestvm', 'seventhtestvm']
+6: 67.0 ['thirdtestvm', 'fourteenthtestvm']
+7: 69.0 ['firsttestvm', 'eleventhtestvm']
+--------------------------------------------------------------------------------
+firsttestvm: ([(0, 1, 76330000000L, 0)], [(True, False, False, False, False, False, False, False)])
+secondtestvm: ([(0, 1, 76540000000L, 5)], [(False, False, False, False, False, True, False, False)])
+thirdtestvm: ([(0, 1, 77280000000L, 7)], [(False, False, False, False, False, False, False, True)])
+fourthtestvm: ([(0, 1, 78930000000L, 3)], [(False, False, False, True, False, False, False, False)])
+fifthtestvm: ([(0, 1, 78180000000L, 6)], [(False, False, False, False, False, False, True, False)])
+sixthtestvm: ([(0, 1, 78480000000L, 6)], [(False, False, False, False, False, False, True, False)])
+seventhtestvm: ([(0, 1, 78000000000L, 4)], [(False, False, False, False, True, False, False, False)])
+eighthtestvm: ([(0, 1, 77040000000L, 1)], [(False, True, False, False, False, False, False, False)])
+ninthtestvm: ([(0, 1, 70890000000L, 3)], [(False, False, False, True, False, False, False, False)])
+tenthtestvm: ([(0, 1, 69310000000L, 2)], [(False, False, True, False, False, False, False, False)])
+eleventhtestvm: ([(0, 1, 72210000000L, 7)], [(False, False, False, False, False, False, False, True)])
+twelvethtestvm: ([(0, 1, 69800000000L, 2)], [(False, False, True, False, False, False, False, False)])
+thirteenthtestvm: ([(0, 1, 71250000000L, 4)], [(False, False, False, False, True, False, False, False)])
+fourteenthtestvm: ([(0, 1, 69830000000L, 0)], [(True, False, False, False, False, False, False, False)])
+fifteenthtestvm: ([(0, 1, 69420000000L, 5)], [(False, False, False, False, False, True, False, False)])
+sixteenthtestvm: ([(0, 1, 70170000000L, 1)], [(False, True, False, False, False, False, False, False)])
+--------------------------------------------------------------------------------
+0: 66.0 ['firsttestvm', 'fourteenthtestvm']
+1: 68.0 ['eighthtestvm', 'sixteenthtestvm']
+2: 69.0 ['tenthtestvm', 'twelvethtestvm']
+3: 70.0 ['fourthtestvm', 'ninthtestvm']
+4: 67.0 ['seventhtestvm', 'thirteenthtestvm']
+5: 69.0 ['secondtestvm', 'fifteenthtestvm']
+6: 71.0 ['fifthtestvm', 'sixthtestvm']
+7: 73.0 ['thirdtestvm', 'eleventhtestvm']
+--------------------------------------------------------------------------------
+firsttestvm: ([(0, 1, 76660000000L, 0)], [(True, False, False, False, False, False, False, False)])
+secondtestvm: ([(0, 1, 76880000000L, 5)], [(False, False, False, False, False, True, False, False)])
+thirdtestvm: ([(0, 1, 77600000000L, 7)], [(False, False, False, False, False, False, False, True)])
+fourthtestvm: ([(0, 1, 79270000000L, 3)], [(False, False, False, True, False, False, False, False)])
+fifthtestvm: ([(0, 1, 78510000000L, 6)], [(False, False, False, False, False, False, True, False)])
+sixthtestvm: ([(0, 1, 78820000000L, 6)], [(False, False, False, False, False, False, True, False)])
+seventhtestvm: ([(0, 1, 78360000000L, 4)], [(False, False, False, False, True, False, False, False)])
+eighthtestvm: ([(0, 1, 77370000000L, 1)], [(False, True, False, False, False, False, False, False)])
+ninthtestvm: ([(0, 1, 71230000000L, 3)], [(False, False, False, True, False, False, False, False)])
+tenthtestvm: ([(0, 1, 69640000000L, 2)], [(False, False, True, False, False, False, False, False)])
+eleventhtestvm: ([(0, 1, 72560000000L, 7)], [(False, False, False, False, False, False, False, True)])
+twelvethtestvm: ([(0, 1, 70140000000L, 2)], [(False, False, True, False, False, False, False, False)])
+thirteenthtestvm: ([(0, 1, 71580000000L, 4)], [(False, False, False, False, True, False, False, False)])
+fourteenthtestvm: ([(0, 1, 70180000000L, 0)], [(True, False, False, False, False, False, False, False)])
+fifteenthtestvm: ([(0, 1, 69760000000L, 5)], [(False, False, False, False, False, True, False, False)])
+sixteenthtestvm: ([(0, 1, 70510000000L, 1)], [(False, True, False, False, False, False, False, False)])
+--------------------------------------------------------------------------------
+0: 68.0 ['firsttestvm', 'fourteenthtestvm']
+1: 67.0 ['eighthtestvm', 'sixteenthtestvm']
+2: 67.0 ['tenthtestvm', 'twelvethtestvm']
+3: 68.0 ['fourthtestvm', 'ninthtestvm']
+4: 69.0 ['seventhtestvm', 'thirteenthtestvm']
+5: 68.0 ['secondtestvm', 'fifteenthtestvm']
+6: 67.0 ['fifthtestvm', 'sixthtestvm']
+7: 67.0 ['thirdtestvm', 'eleventhtestvm']
+--------------------------------------------------------------------------------
+^CTraceback (most recent call last):
+  File "./monitor.py", line 74, in <module>
+    s.run()
+  File "/usr/lib/python2.7/sched.py", line 111, in run
+    delayfunc(time - now)
+KeyboardInterrupt
+[1m[7m%[27m[1m[0m                                                                                        ]2;gio@gio-L: ~/dev/omscs/cs6210/project1/cs6210Project1_test/test/cpu]1;..test/test/cpu[0m[27m[24m[J[01;31m➜  [36mcpu[00m [01;34mgit:([31mmaster[34m) [33m✗[00m [K[?1h=[?2004h[?2004l
+
+Script done on Πεμ 21 Σεπ 2017 02:24:18 μμ EEST
