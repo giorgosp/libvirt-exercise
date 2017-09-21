@@ -3,7 +3,6 @@
 #include <unistd.h>
 #include <assert.h>
 #include <string.h>
-#include <math.h>
 #include <libvirt/libvirt.h>
 
 #define NANOS_PER_SEC 1000000000L
