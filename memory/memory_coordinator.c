@@ -102,11 +102,6 @@ int main(int argc, char **argv)
     unsigned long maxMem = virDomainGetMaxMemory(domains[0]);
     printf("maxmem %d: %lu\n", 0, maxMem);
 
-    // first, check all vms to see if we can take memory from one:
-    //   if usable memory in vm is more than 280 (linux leaves 250-290 mb)
-    //      then take memory until there are only 280 mb usable
-    //   if usable memory is less than 100mb, then give memory
-
     virDomainMemoryStatPtr stats = malloc(sizeof(virDomainMemoryStatStruct) * (VIR_DOMAIN_MEMORY_STAT_NR + 1));
     int statsLen;
 
