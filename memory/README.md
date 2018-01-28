@@ -1,4 +1,4 @@
-# vCpu scheduler
+# Memory coordinator
 
 ## Compiling and running
 
