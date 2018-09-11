@@ -1,5 +1,8 @@
 # Memory coordinator
 
+An exercise that uses the ballooning technique in order to give or take memory
+to virtual machines.
+
 ## Compiling and running
 
 Just run `make` and then `./memory_coordinator [interval]`
@@ -8,16 +11,10 @@ Just run `make` and then `./memory_coordinator [interval]`
 
 The memory coordinator checks that the unused memory of a domain is always
 between two boundaries. If the unused memory is lower than a threshold, then 
-the program gives 50% more memory to that domain. If the unused memory is more
-than some other threshold, then the program takes memory from that domain until the unused memory reaches that threshold (maximum allowed unused memory). Between the two threshold, the domain's memory is not changed by the program.
-
-
-## Test setup
-To run the tests, 4 vms where used. For my tests (and log output), the  programs's interval is at 3 seconds. I believe for the memory coordinator, the smaller the interval the better for the jobs running, because the coordinator can give quickly more memory as it is needed. If the coordinator runs much less often, then maybe the jobs will ask for more memory earlier than the coordinator can run and they will not reach the max memory for a domain.
-
+the memory coordinator gives 50% more memory to that domain. If the unused memory is more
+than the max limit, then the memory coordinator takes memory from that domain until the unused memory reaches that threshold (maximum allowed unused memory). Between the lower and upper limit, the domain's memory is not changed by the memory coordinator.
+The memory coordinator runs every 3 seconds. However the smaller the interval the more quickly the coordinator can give or take memory from the VMs.
 
 ## Assumptions made
-There are some assumptions made for the test environment, as per the project's description and for the ease of testing. For example:
-
 - Vms should be already running when the program starts.
 - All domains have the same max memory
